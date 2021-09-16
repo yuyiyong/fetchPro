@@ -1,0 +1,23 @@
+{
+  "name": "fetch_pro",
+  "version": "1.0.0",
+  "description": "fetch axios style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuyiyong/fetchPro.git"
+  },
+  "keywords": [
+    "fetch",
+    "capsulation"
+  ],
+  "author": "duiy3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuyiyong/fetchPro/issues"
+  },
+  "homepage": "https://github.com/yuyiyong/fetchPro#readme"
+}
